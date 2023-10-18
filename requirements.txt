@@ -3,7 +3,6 @@ asgiref==3.7.2
 attrs==23.1.0
 beautifulsoup4==4.12.2
 cffi==1.15.1
-contourpy==1.0.7
 cycler==0.11.0
 dj-database-url==2.1.0
 Django==4.2.5
